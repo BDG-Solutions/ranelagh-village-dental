@@ -154,7 +154,7 @@ function renderHome() {
   </section>
 
   <section class="section section--alt">
-    <div class="container split split--center">
+    <div class="container split split--center split--wide">
       <div class="stats" data-reveal aria-label="The practice in numbers">
         <div><b>1988</b><span>Both dentists qualified from Trinity College Dublin</span></div>
         <div><b>${clinic.rating.score} ★</b><span>Average rating from ${clinic.rating.count} Google reviews</span></div>
